@@ -179,9 +179,3 @@ const Slides = ({ object, objectPath }: SlidesProps) => {
 
 export default Slides
 
-// component=object ,,
-//idUrl=objectPath
-//leaving = exit
-//isNext- next
-//recoilcategory= recoilGroup
-//changeUrl= changePath
